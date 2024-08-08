@@ -1,0 +1,5 @@
+.equal-height {
+    height: 330px; /* Set the height you want */
+    object-fit: cover; /* Make sure the image covers the area */
+    width: 100%;
+}
